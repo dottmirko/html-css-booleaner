@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: rgb(70, 186, 253);
+    height: 70px;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+}
+
+.img-thebooleaner{
+    width: 20%;
+    margin-top: 25px;
+}
+
+

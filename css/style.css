@@ -56,6 +56,25 @@
     color: black;
 }
 
+.paragrafo-footer{
+    font-size: 70%;
+    font-weight: bold;
+    color: grey;
+}
+
+.image-container{
+    position: relative;
+    width: 100;
+}
+
+.image-text{
+    position: absolute;
+    top: 2%;
+    left: 1%;
+    color: white;
+    font-size: 70%;
+    font: bolder;
+}
 
 
 
